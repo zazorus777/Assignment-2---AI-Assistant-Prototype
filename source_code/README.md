@@ -44,7 +44,7 @@ ai-assistant-checkin1/
 ### ▶️ Steps to Execute
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-assistant-checkin1.git
+git clone https://github.com/zazorus777/Assignment-2---AI-Assistant-Prototype.git
 cd ai-assistant-checkin1/source_code
 ```
 
